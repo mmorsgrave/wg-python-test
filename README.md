@@ -1,1 +1,1 @@
-# wg-python-test
+# wg-test
